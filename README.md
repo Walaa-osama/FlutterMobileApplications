@@ -24,7 +24,25 @@ Flutter – Cross-platform UI toolkit
 Hive – Lightweight NoSQL database for local storage
 
 Dart – Programming language for Flutter
+_____________________________________
+2) ⚖️ BMI Calculator App
 
+A beautifully designed Flutter application for calculating Body Mass Index (BMI), built with responsive UI and Cubit state management. The app allows users to input their height and weight to quickly determine their BMI and view health-related feedback.
+
+🚀 Features:
+
+📏 Input height and weight easily
+
+🧮 Instant BMI calculation
+
+🟢 Health categorization (Underweight, Normal, Overweight, Obese)
+
+🖼️ Visually appealing UI inspired by Pinterest-style layouts
+
+📱 Fully responsive across different screen sizes
+
+🧠 Built with Cubit for efficient state management
+______________________________________
 
 A few resources to get you started if this is your first Flutter project:
 
